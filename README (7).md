@@ -1,6 +1,6 @@
 # AITradeGame - Open Source AI Trading Simulator
 
-[English](README.md) | [中文](README_ZH.md)
+[English](README.md) 
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
@@ -107,18 +107,10 @@ Development requires Python 3.9 or later. Internet connection is needed for mark
 
 Install all dependencies with: pip install -r requirements.txt
 
-## Contributing
 
-Community contributions are welcome.
 
 ## Disclaimer
 
 This is a simulated trading platform for testing AI models and strategies. It is not real trading and no actual money is involved. Always conduct your own research and analysis before making investment decisions. No warranties are provided regarding trading outcomes or AI performance.
 
-## Links
 
-Online version with leaderboard and social features: https://aitradegame.com
-
-Desktop builds and releases: https://github.com/chadyi/AITradeGame/releases/tag/main
-
-Source code repository: https://github.com/chadyi/AITradeGame
